@@ -1,0 +1,10 @@
+#basic options
+title: Cole's Portfolio
+author: Cole Calderon
+email: coleaydancalderon@gmail.com
+description: Working model of my personal coding portfolio
+github username: colecalderon
+
+#Build Settings
+markdown: kramdown
+theme: minima
